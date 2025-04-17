@@ -1,0 +1,19 @@
+package=folder 
+
+ex: public Class ;private class;......
+
+                    PUBLIC      PRIVATE     PROTECTED       DEFAULT(if not defined)
+
+Same Class           YES          YES         YES             YES
+
+Same package         YES          NO          YES             YES
+sub Class
+
+Same package         YES          NO          YES             YES
+non sub Class
+
+Different package    YES          NO          YES             NO
+sub Class
+
+Different package    YES          NO          NO              NO
+non sub Class

@@ -1,0 +1,31 @@
+public class datatypes 
+{
+    public static void main(String a[])
+    {
+        // there are 2 types of data types 1.primitive 2.?
+        //1.integer
+            //int,long,short,byte
+              int i=2;
+              long l=183156l;//we should keep l at last to undrestand its long value
+              short s=5;
+              byte b=127;//127 is last value
+
+        //2.float
+            //float,double
+              float f=5.8f;//we should specify f at last for float value as java predefinely considers double
+              double d=36355.54213;
+        
+        //3.character
+            // single character in single qoutes''
+               char ch=('a');
+               char h='5';
+
+        //4.boolean
+            //true or false 
+            boolean bool=true;
+
+        
+
+    }
+
+}

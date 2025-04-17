@@ -1,0 +1,16 @@
+
+An API (Application Programming Interface) in Java is a set of predefined classes, methods, interfaces, and 
+variables that allow different software components or systems to interact with each other.
+
+collection API is an concept in which we have two
+it is used to work with some datastructures,linkedlists etc.. with INBUILT Classes.....
+we can fetch data
+we can work with expandable data which is not possible in array  
+
+
+
+1.Collection (Interface)-> With "C" as capital..
+    we have some classes to implement this
+2.Collections (Class)...
+    we have some methods to work with this
+ 

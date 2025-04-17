@@ -1,0 +1,15 @@
+we have 3 types of errors.
+    1.Compile time error
+            the error which occurs during the compile time
+            these errors can be easily solved..
+    2.Logical errors
+            the error occurs logically 
+            to avoid these we have to do testing the code..
+            by this we solve the errors
+    3.Run time error ->EXCEPTION
+            the error which occured during the Run time due to any technical issues etc...
+            this causes the code stop executing in between..
+            to avoid these we have to handle this errors
+            handling this errors is important 
+            we call them as EXCEPTION HANDLING
+

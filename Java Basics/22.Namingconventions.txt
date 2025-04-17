@@ -1,0 +1,9 @@
+
+Java Follows "Camel Casing"
+
+class and interface should start with "Capital Letter" -> class HelloWorld
+variables and methods "small Letter" -> marks;student;age;name //show();get() etc...
+costants all Capital -> PIE ;BRAND etc...
+
+ShowMyMarks() //readable by all 
+MyData   etc....
